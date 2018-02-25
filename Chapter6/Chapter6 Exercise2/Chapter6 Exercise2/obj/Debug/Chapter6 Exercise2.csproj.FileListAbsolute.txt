@@ -1,0 +1,5 @@
+C:\Users\Adas\Documents\Visual Studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter6 Exercise2\Chapter6 Exercise2\bin\Debug\Chapter6 Exercise2.exe.config
+C:\Users\Adas\Documents\Visual Studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter6 Exercise2\Chapter6 Exercise2\bin\Debug\Chapter6 Exercise2.exe
+C:\Users\Adas\Documents\Visual Studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter6 Exercise2\Chapter6 Exercise2\bin\Debug\Chapter6 Exercise2.pdb
+C:\Users\Adas\Documents\Visual Studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter6 Exercise2\Chapter6 Exercise2\obj\Debug\Chapter6 Exercise2.exe
+C:\Users\Adas\Documents\Visual Studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter6 Exercise2\Chapter6 Exercise2\obj\Debug\Chapter6 Exercise2.pdb

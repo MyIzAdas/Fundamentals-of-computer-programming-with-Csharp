@@ -1,0 +1,6 @@
+C:\Users\Adas\Documents\Visual Studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter6 Exercise4\Chapter6 Exercise4\bin\Debug\Chapter6 Exercise4.exe.config
+C:\Users\Adas\Documents\Visual Studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter6 Exercise4\Chapter6 Exercise4\bin\Debug\Chapter6 Exercise4.exe
+C:\Users\Adas\Documents\Visual Studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter6 Exercise4\Chapter6 Exercise4\bin\Debug\Chapter6 Exercise4.pdb
+C:\Users\Adas\Documents\Visual Studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter6 Exercise4\Chapter6 Exercise4\obj\Debug\Chapter6 Exercise4.csprojResolveAssemblyReference.cache
+C:\Users\Adas\Documents\Visual Studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter6 Exercise4\Chapter6 Exercise4\obj\Debug\Chapter6 Exercise4.exe
+C:\Users\Adas\Documents\Visual Studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter6 Exercise4\Chapter6 Exercise4\obj\Debug\Chapter6 Exercise4.pdb

@@ -1,0 +1,12 @@
+c:\users\adas\documents\visual studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Hello World\Hello World\bin\Debug\Hello World.exe.config
+c:\users\adas\documents\visual studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Hello World\Hello World\bin\Debug\Hello World.exe
+c:\users\adas\documents\visual studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Hello World\Hello World\bin\Debug\Hello World.pdb
+c:\users\adas\documents\visual studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Hello World\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+c:\users\adas\documents\visual studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Hello World\Hello World\obj\Debug\Hello World.exe
+c:\users\adas\documents\visual studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Hello World\Hello World\obj\Debug\Hello World.pdb
+C:\Users\Adas\Documents\Visual Studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter1 Exercise5\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\Adas\Documents\Visual Studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter1 Exercise5\Hello World\bin\Debug\Hello World.exe
+C:\Users\Adas\Documents\Visual Studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter1 Exercise5\Hello World\bin\Debug\Hello World.pdb
+C:\Users\Adas\Documents\Visual Studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter1 Exercise5\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+C:\Users\Adas\Documents\Visual Studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter1 Exercise5\Hello World\obj\Debug\Hello World.exe
+C:\Users\Adas\Documents\Visual Studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter1 Exercise5\Hello World\obj\Debug\Hello World.pdb

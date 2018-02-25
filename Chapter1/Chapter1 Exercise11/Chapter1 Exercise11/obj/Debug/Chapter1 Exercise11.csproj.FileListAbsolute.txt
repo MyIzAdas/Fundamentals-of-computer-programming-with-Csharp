@@ -1,0 +1,5 @@
+c:\users\adas\documents\visual studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter1 Exercise11\Chapter1 Exercise11\bin\Debug\Chapter1 Exercise11.exe.config
+c:\users\adas\documents\visual studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter1 Exercise11\Chapter1 Exercise11\bin\Debug\Chapter1 Exercise11.exe
+c:\users\adas\documents\visual studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter1 Exercise11\Chapter1 Exercise11\bin\Debug\Chapter1 Exercise11.pdb
+c:\users\adas\documents\visual studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter1 Exercise11\Chapter1 Exercise11\obj\Debug\Chapter1 Exercise11.exe
+c:\users\adas\documents\visual studio 2017\Fundamentals of Computer Programming with CSharp Nakov eBook v2013\Chapter1 Exercise11\Chapter1 Exercise11\obj\Debug\Chapter1 Exercise11.pdb

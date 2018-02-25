@@ -1,0 +1,6 @@
+c:\users\adas\documents\visual studio 2017\Projects\Chapter2 Exercise3\Chapter2 Exercise3\bin\Debug\Chapter2 Exercise3.exe.config
+c:\users\adas\documents\visual studio 2017\Projects\Chapter2 Exercise3\Chapter2 Exercise3\bin\Debug\Chapter2 Exercise3.exe
+c:\users\adas\documents\visual studio 2017\Projects\Chapter2 Exercise3\Chapter2 Exercise3\bin\Debug\Chapter2 Exercise3.pdb
+c:\users\adas\documents\visual studio 2017\Projects\Chapter2 Exercise3\Chapter2 Exercise3\obj\Debug\Chapter2 Exercise3.csprojResolveAssemblyReference.cache
+c:\users\adas\documents\visual studio 2017\Projects\Chapter2 Exercise3\Chapter2 Exercise3\obj\Debug\Chapter2 Exercise3.exe
+c:\users\adas\documents\visual studio 2017\Projects\Chapter2 Exercise3\Chapter2 Exercise3\obj\Debug\Chapter2 Exercise3.pdb
