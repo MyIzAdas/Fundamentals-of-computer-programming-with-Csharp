@@ -2,4 +2,3 @@
 
 My way of solving "Fundamentals of computer programming with C#" by Nakov
 
-You can find this free educational book and more recources about it at http://www.introprogramming.info/english-intro-csharp-book/
